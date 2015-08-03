@@ -26,6 +26,7 @@
 - [dotNet](https://gitter.im/dou-ua/dotNet) – .NET-технології
 - [fe](https://gitter.im/dou-ua/fe) – фронт-енд технології
 - [fp](https://gitter.im/dou-ua/fp) – функціональні мови програмування, а також теорія типів
+- [devops](https://gitter.im/dou-ua/devops) – DevOps
 - [qa](https://gitter.im/dou-ua/qa) – QA-тестування
 
 ## Правилата та обмеження
