@@ -21,6 +21,7 @@
   тем для розмов
 - [java](https://gitter.im/dou-ua/java) – мова програмування Java
 - [python](https://gitter.im/dou-ua/python) – мова програмування Python
+- [ruby](https://gitter.im/dou-ua/ruby) – мова програмування Ruby
 - [php](https://gitter.im/dou-ua/php) – мова програмування PHP
 - [dotNet](https://gitter.im/dou-ua/dotNet) – .NET-технології
 - [fe](https://gitter.im/dou-ua/fe) – фронт-енд технології
