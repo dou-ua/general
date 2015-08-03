@@ -21,6 +21,7 @@
   тем для розмов
 - [java](https://gitter.im/dou-ua/java) – мова програмування Java
 - [python](https://gitter.im/dou-ua/python) – мова програмування Python
+- [php](https://gitter.im/dou-ua/php) – мова програмування PHP
 - [fe](https://gitter.im/dou-ua/fe) – фронт-енд технології
 - [fp](https://gitter.im/dou-ua/fp) – функціональні мови програмування, а також теорія типів
 
