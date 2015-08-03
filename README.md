@@ -19,6 +19,7 @@
 
 - [general](https://gitter.im/dou-ua/general) – кімната для загальних обговорень, на даний момент без обмежень
   тем для розмов
+- [android](https://gitter.im/dou-ua/android) – Android
 - [java](https://gitter.im/dou-ua/java) – мова програмування Java
 - [python](https://gitter.im/dou-ua/python) – мова програмування Python
 - [ruby](https://gitter.im/dou-ua/ruby) – мова програмування Ruby
@@ -28,6 +29,9 @@
 - [fp](https://gitter.im/dou-ua/fp) – функціональні мови програмування, а також теорія типів
 - [devops](https://gitter.im/dou-ua/devops) – DevOps
 - [qa](https://gitter.im/dou-ua/qa) – QA-тестування
+- [bi-bigdata](https://gitter.im/dou-ua/bi-bigdata) – Business Intelligence & Big Data
+- [ds-ml](https://gitter.im/dou-ua/ds-ml) – Data Science & Machine Learning
+
 
 ## Правилата та обмеження
 
