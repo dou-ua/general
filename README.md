@@ -20,6 +20,7 @@
 - [general](https://gitter.im/dou-ua/general) – кімната для загальних обговорень, на даний момент без обмежень
   тем для розмов
 - [android](https://gitter.im/dou-ua/android) – Android
+- [ios](https://gitter.im/dou-ua/ios) – iOS
 - [java](https://gitter.im/dou-ua/java) – мова програмування Java
 - [python](https://gitter.im/dou-ua/python) – мова програмування Python
 - [ruby](https://gitter.im/dou-ua/ruby) – мова програмування Ruby
