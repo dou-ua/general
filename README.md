@@ -32,6 +32,8 @@
 - [qa](https://gitter.im/dou-ua/qa) – QA-тестування
 - [bi-bigdata](https://gitter.im/dou-ua/bi-bigdata) – Business Intelligence & Big Data
 - [ds-ml](https://gitter.im/dou-ua/ds-ml) – Data Science & Machine Learning
+- [sql-nosql](https://gitter.im/dou-ua/sql-nosql) – Бази даних (SQL & NoSQL)
+- [meteor](https://gitter.im/dou-ua/meteor) – Користувачі фреймворку [Meteor](https://www.meteor.com/)
 
 ## Правилата та обмеження
 
