@@ -25,6 +25,7 @@
 - [python](https://gitter.im/dou-ua/python) – мова програмування Python
 - [ruby](https://gitter.im/dou-ua/ruby) – мова програмування Ruby
 - [php](https://gitter.im/dou-ua/php) – мова програмування PHP
+- [js](https://gitter.im/dou-ua/php) – мова програмування JavaScript (не стосовно [front-end](https://gitter.im/dou-ua/fe))
 - [dotNet](https://gitter.im/dou-ua/dotNet) – .NET-технології
 - [fe](https://gitter.im/dou-ua/fe) – фронт-енд технології
 - [fp](https://gitter.im/dou-ua/fp) – функціональні мови програмування, а також теорія типів
