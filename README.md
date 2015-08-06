@@ -36,6 +36,7 @@
 - [sql-nosql](https://gitter.im/dou-ua/sql-nosql) – Бази даних (SQL & NoSQL)
 - [embedded](https://gitter.im/dou-ua/embedded) – Embedded-програмування
 - [meteor](https://gitter.im/dou-ua/meteor) – Користувачі фреймворку [Meteor](https://www.meteor.com/)
+- [lua](https://gitter.im/dou-ua/lua) – Мова програмування Lua
 
 ## Правилата та обмеження
 
