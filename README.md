@@ -37,6 +37,7 @@
 - [embedded](https://gitter.im/dou-ua/embedded) – Embedded-програмування
 - [meteor](https://gitter.im/dou-ua/meteor) – Користувачі фреймворку [Meteor](https://www.meteor.com/)
 - [lua](https://gitter.im/dou-ua/lua) – Мова програмування Lua
+- [xamarin](https://gitter.im/dou-ua/xamarin) – Платформа [Xamarin](http://xamarin.com/)
 
 ## Правила та обмеження
 
