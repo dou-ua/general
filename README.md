@@ -19,6 +19,7 @@
 
 - [general](https://gitter.im/dou-ua/general) – кімната для загальних обговорень, на даний момент без обмежень
   тем для розмов
+- [job-offers](https://gitter.im/dou-ua/job-offers) – пропозиції роботи
 - [android](https://gitter.im/dou-ua/android) – Android
 - [ios](https://gitter.im/dou-ua/ios) – iOS
 - [java](https://gitter.im/dou-ua/java) – мова програмування Java
@@ -41,7 +42,8 @@
 
 ## Правила та обмеження
 
-Заборонені прямі образи та погрози.
+- Пропонувати вакансії не в кімнаті [job-offers](https://gitter.im/dou-ua/job-offers) дозволяється лише спеціалістам, що зацікавлені у майбутній колегах та кличуть до себе на проект.
+- Заборонені прямі образи та погрози.
 
 ## Навіщо DOU-чати, коли є <...>?
 
